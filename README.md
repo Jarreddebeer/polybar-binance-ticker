@@ -6,20 +6,15 @@ Display ticker information from Binance in Polybar
 
 It is similar to [polybar-crypto](https://github.com/willHol/polybar-crypto) and [polybar-cryptocurrency](https://github.com/SplendidX/polybar-cryptocurrency) but does not rely on Python. The code is simpler and only uses 44 bytes per tick.
 
-Binance API:
-
-Uncompressed size : 44 Bytes
-
+Binance API:\
+Uncompressed size : 44 Bytes\
 Compressed size   : 59 Bytes
 
-Coinranking API:
+Coinranking API:\
+Uncompressed size : 65.71 KiB\
+Compressed size   : 12.80 KiB\
 
-Uncompressed size : 65.71 KiB
-
-Compressed size   : 12.80 KiB
-
-Coinmarketcap API:
-
+Coinmarketcap API:\
 Error 410: WARNING This API is now offline.
 
 ## Usage
